@@ -26,7 +26,7 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
 - Reset automático do formulário após envio  
 - Experiência mais fluida e moderna
 
-> **Observação:** As credenciais de envio foram removidas do repositório por segurança. Para testar localmente, configure suas próprias variáveis no arquivo de back-end (`enviar-formulario.php`) ou use um `.env`.
+> **Observação:** As credenciais de envio foram removidas do repositório por segurança. Este repositório é uma versão adaptada para fins de portfólio. Nenhuma informação sensível do cliente foi incluída. Para testar localmente, configure suas próprias variáveis no arquivo de back-end (`enviar-formulario.php`) ou use um `.env`.
 
 ## 📱 Recursos implementados
 
@@ -41,8 +41,6 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
 - Funciona em todos os navegadores
 
 -
-📌 Observações
-Este repositório é uma versão adaptada para fins de portfólio. Nenhuma informação sensível do cliente foi incluída.
 - 
   ##📁 Como rodar localmente
 1. Clone este repositório:
