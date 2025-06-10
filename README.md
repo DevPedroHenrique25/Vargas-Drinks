@@ -40,35 +40,32 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
 - Código limpo e bem estruturado
 - Funciona em todos os navegadores
 
+-
+📌 Observações
+Este repositório é uma versão adaptada para fins de portfólio. Nenhuma informação sensível do cliente foi incluída.
 - 
   ##📁 Como rodar localmente
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/vargasdrinks.git
-Instale o PHPMailer (caso ainda não tenha):
-
-bash
-Copiar
-Editar
-composer require phpmailer/phpmailer
-Configure as variáveis de e-mail no enviar-formulario.php ou usando .env.
-Recomendo usar o Mailtrap para disparo de email simulado
-
-Coloque o projeto em um servidor local com suporte a PHP (ex: XAMPP, Laragon).
-
-Acesse via navegador: http://localhost/seu-diretorio/
-
-📌 Observações
-Este repositório é uma versão adaptada para fins de portfólio. Nenhuma informação sensível do cliente foi incluída.
-
-📷 Capturas de tela
-
-
-📩 Contato
-Caso tenha interesse em projetos como este ou queira conversar, estou disponível:
-
-https://www.linkedin.com/in/pedro-henrique-39148b2a1/
-
-dev.pedrohenrique.contato@gmail.com
-
-Desenvolvido por Pedro Henrique Silva Vieira
+  Instale o PHPMailer (caso ainda não tenha):
+  
+  bash
+  Copiar
+  Editar
+  composer require phpmailer/phpmailer
+  Configure as variáveis de e-mail no enviar-formulario.php ou usando .env.
+  Recomendo usar o Mailtrap para disparo de email simulado
+  
+  Coloque o projeto em um servidor local com suporte a PHP (ex: XAMPP, Laragon).
+  
+  Acesse via navegador: http://localhost/seu-diretorio/
+  
+  📩 Contato
+  Caso tenha interesse em projetos como este ou queira conversar, estou disponível:
+  
+  https://www.linkedin.com/in/pedro-henrique-39148b2a1/
+  
+  dev.pedrohenrique.contato@gmail.com
+  
+  Desenvolvido por Pedro Henrique Silva Vieira
