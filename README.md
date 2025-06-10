@@ -40,11 +40,10 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
 - Metadados configurados para otimização nos mecanismos de busca  
 - Código limpo e bem estruturado
 - Funciona em todos os navegadores
-
--
+--
 ## 📸 Preview do projeto:
 ![Preview](./preview.png) 
-- 
+--
   ##📁 Como rodar localmente
 1. Clone este repositório:
    ```bash
