@@ -31,7 +31,8 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
 ## 📱 Recursos implementados
 
 - Layout responsivo e moderno  
-- Slides dinâmicos com Swiper.js  
+- Slides dinâmicos com Swiper.js
+- Galeria de fotos do cliente  
 - Navegação dinâmica com scroll suave entre seções  
 - Botão flutuante de conversa via WhatsApp  
 - Links para redes sociais  
