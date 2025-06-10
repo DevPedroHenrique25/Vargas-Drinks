@@ -41,6 +41,8 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
 - Funciona em todos os navegadores
 
 -
+## 📸 Preview do projeto:
+![Preview](./preview.png) 
 - 
   ##📁 Como rodar localmente
 1. Clone este repositório:
