@@ -53,6 +53,7 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
   bash
   
   Copiar
+  
   Editar
   composer require phpmailer/phpmailer
   Configure as variáveis de e-mail no enviar-formulario.php ou usando .env.
