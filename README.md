@@ -62,6 +62,7 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
   Acesse via navegador: http://localhost/seu-diretorio/
   
   📩 Contato
+  
   Caso tenha interesse em projetos como este ou queira conversar, estou disponível:
   
   https://www.linkedin.com/in/pedro-henrique-39148b2a1/
