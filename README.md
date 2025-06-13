@@ -51,6 +51,7 @@ O formulário de contato envia mensagens via PHPMailer, mas **de forma dinâmica
   Instale o PHPMailer (caso ainda não tenha):
   
   bash
+  
   Copiar
   Editar
   composer require phpmailer/phpmailer
