@@ -4,9 +4,8 @@ Site institucional desenvolvido para a empresa **Vargas Drinks**, especializada 
 
 Este projeto foi desenvolvido com foco em performance, responsividade e experiência do usuário, além de conter integração com funcionalidades essenciais para conversão e contato com o cliente.
 
-## 🔗 Acesse o site
-
-https://vargasdrinks.com.br/
+## SITE FORA DO AR
+--O site hoje infelizmente se encontra fora do ar, porém você pode baixar o projeto para visualizar!!!!
 
 ## 🛠 Tecnologias utilizadas
 
